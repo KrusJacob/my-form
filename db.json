@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "8888",
+      "name": "Jacob Krus",
+      "role": "admin",
+      "sex": "male",
+      "birthday": "12.12.1996"
+    },
+    {
+      "id": 2,
+      "login": "Alex",
+      "password": "0808",
+      "name": "Samuel Rivera",
+      "role": "admin",
+      "sex": "male",
+      "birthday": "11.03.1994"
+    },
+    {
+      "login": "buritto",
+      "password": "basta007",
+      "name": "Howard Carr",
+      "sex": "male",
+      "role": "user",
+      "birthday": "03.11.1982",
+      "id": 3,
+      "banned": false
+    },
+    {
+      "login": "slava1995@mail.ru",
+      "password": "123456787654321",
+      "name": "John Miller",
+      "sex": "female",
+      "role": "user",
+      "birthday": "08.10.1995",
+      "id": 4,
+      "banned": false
+    },
+    {
+      "login": "testtesttesttesttest",
+      "password": "1111111111111111111111111111",
+      "name": "John Porter",
+      "sex": "male",
+      "role": "user",
+      "birthday": "01.11.2006",
+      "id": 5,
+      "banned": false
+    },
+    {
+      "login": "max@mail.ru",
+      "password": "max121212",
+      "name": "William Vargas",
+      "sex": "male",
+      "role": "user",
+      "birthday": "28.11.1992",
+      "id": 6,
+      "banned": false
+    },
+    {
+      "login": "annad@mail.ru",
+      "password": "aann1999",
+      "name": "Frank Jones",
+      "sex": "female",
+      "role": "user",
+      "birthday": "21.07.1999",
+      "id": 7,
+      "banned": false
+    },
+    {
+      "login": "boris@mail.ru",
+      "password": "11223344",
+      "name": "Kelly Stevens",
+      "sex": "male",
+      "role": "user",
+      "birthday": "25.09.1987",
+      "id": 8,
+      "banned": false
+    },
+    {
+      "login": "test@mail.ru",
+      "password": "testtest1234",
+      "name": "Albert Taylor",
+      "sex": "male",
+      "role": "user",
+      "birthday": "12.09.1996",
+      "id": 9
+    },
+    {
+      "login": "maxim@gmail.com",
+      "password": "maxim12345",
+      "name": "Maxim Kiselev",
+      "sex": "male",
+      "role": "user",
+      "birthday": "31.08.2002",
+      "id": 10,
+      "banned": false
+    },
+    {
+      "login": "nagibator3000@mail.ru",
+      "password": "0000151515",
+      "name": "Kirill Prudnikov",
+      "sex": "male",
+      "role": "user",
+      "birthday": "28.10.2007",
+      "id": 11,
+      "banned": false
+    },
+    {
+      "login": "bastymikla@mail.ru",
+      "password": "basr12345",
+      "name": "Boris Marlev",
+      "sex": "male",
+      "role": "user",
+      "birthday": "17.04.1991",
+      "id": 12,
+      "banned": false
+    },
+    {
+      "login": "innavats@mail.ru",
+      "password": "inna111",
+      "name": "Inna Vatskaya",
+      "sex": "female",
+      "role": "user",
+      "birthday": "03.09.1981",
+      "id": 13
+    },
+    {
+      "login": "mivina@mail.ru",
+      "password": "masam123",
+      "name": "Melia Homaff",
+      "sex": "female",
+      "role": "user",
+      "birthday": "25.11.1986",
+      "banned": false,
+      "id": 14
+    }
+  ]
+}
