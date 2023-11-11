@@ -1,4 +1,4 @@
-import { BrowserRouter, HashRouter, Routes, Route, Navigate } from "react-router-dom";
+import { HashRouter, Routes, Route, Navigate } from "react-router-dom";
 import Form from "./components/Form/Form";
 import Login from "./components/Login/Login";
 import PassRecovery from "./components/PassRecovery/PassRecovery";
