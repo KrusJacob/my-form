@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import { BrowserRouter, HashRouter, Routes, Route, Navigate } from "react-router-dom";
 import Form from "./components/Form/Form";
 import Login from "./components/Login/Login";
 import PassRecovery from "./components/PassRecovery/PassRecovery";
@@ -18,7 +18,7 @@ function App() {
   console.log(user);
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <main>
         <Routes>
           <Route path="/" element={user ? <MainLayout /> : <Navigate to="/login" />}>
@@ -35,7 +35,7 @@ function App() {
         </Routes>
         <Toaster />
       </main>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
